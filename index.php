@@ -65,7 +65,7 @@ error_reporting(0);
   <div class="container">
     <div class="section-header text-center">
       <h2>Find the Best <span>HouseForYou</span></h2>
-      <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+      <p>There are many variations of house units available, majority of the house tenants have suffered alteration in some form earlier on before in ancient where technology seemed not to exist, randomised words which don't look even slightly believable. If you are going to rent a house via this platform, you need to be sure there isn't anything embarrassing hidden in the process of you getting a house of your choice.</p>
     </div>
     <div class="row"> 
       
@@ -239,5 +239,4 @@ foreach($results as $result)
 
 </body>
 
-<!-- Mirrored from themes.webmasterdriver.net/carforyou/demo/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Jun 2017 07:22:11 GMT -->
 </html>

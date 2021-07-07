@@ -69,6 +69,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 								</form>
 
 			<p style="margin-top: 4%" align="center"><a href="../index.php">Back to Home</a>	</p>
+
 							</div>
 
 						</div>
